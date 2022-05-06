@@ -2,6 +2,7 @@
 
 namespace Core;
 
+//route system
 class ConfigView
 {
     private string $route;
